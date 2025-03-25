@@ -1,7 +1,7 @@
 # Kafka Avançado
 
 <p align="justify"> 
-Desenvolvimento de uma aplicação prática que implementa a arquitetura proposta utilizando o Apache Kafka em conjunto com o framework .NET Core. Uma integração do Kafka em suas aplicações .NET Core e como implementar produtores e consumidores de mensagens Kafka para comunicação assíncrona e distribuída.
+Desenvolvimento de uma aplicação prática que implementa a arquitetura proposta, utilizando o Apache Kafka em conjunto com o framework .NET Core. O foco está na integração do Kafka com aplicações .NET Core, abordando a implementação de produtores e consumidores de mensagens para possibilitar uma comunicação assíncrona e distribuída.
 </p> 
 
 ## 🛠️ Construído com 
