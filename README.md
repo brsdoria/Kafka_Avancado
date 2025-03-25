@@ -46,12 +46,6 @@ A estrutura da arquitetura da solução atual e novo solução segundo a imagem 
 
 ![EstruturaDoProjeto](screenshots/estruturaSolucao.png)
 
-## 🚧 Descrição da Estrutura do Projeto
-
-A estrutura do projeto segundo a imagem abaixo é composta da seguinte forma:
-
-![EstruturaDoProjeto](screenshots/estruturaProjeto.png)
-
 ## ⚠️ Atenção 
 
 Destinado exclusivamente para fins de estudo.
