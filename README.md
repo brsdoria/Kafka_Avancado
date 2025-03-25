@@ -44,7 +44,7 @@ dotnet add package Confluent.Kafka
 
 A estrutura da arquitetura da solução atual e novo solução segundo a imagem abaixo é composta da seguinte forma:
 
-![EstruturaDoProjeto](screenshots/estruturaClusterKafka.png)
+![EstruturaDoProjeto](screenshots/estruturaSolucao.png)
 
 ## 🚧 Descrição da Estrutura do Projeto
 
