@@ -1,4 +1,4 @@
-# Kafka
+# Kafka Avançado
 
 <p align="justify"> 
 Criação de uma solution com dois projetos, com objetivo ensinar a aplicação prática de um produtor(responsável por produzir as mesagens para o Apache Kafka) e o consumidor(responsável por consumir as mensagens que chegam em um determinado tópico).
