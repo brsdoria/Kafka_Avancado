@@ -40,9 +40,9 @@ dotnet add package Confluent.Kafka
 
 ```
 
-## 🚧 Descrição da Estrutura do Cluster do Kafka
+## 🚧 Descrição da Estrutura da Arquitetura da solução atual e nova solução segundo
 
-A estrutura da arquitetura da solução atual e novo solução segundo a imagem abaixo é composta da seguinte forma:
+A estrutura da arquitetura da solução atual e nova solução segundo a imagem abaixo é composta da seguinte forma:
 
 ![EstruturaDoProjeto](screenshots/estruturaSolucao.png)
 
