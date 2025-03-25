@@ -42,7 +42,7 @@ dotnet add package Confluent.Kafka
 
 ## 🚧 Descrição da Estrutura do Cluster do Kafka
 
-A estrutura do cluster do kafka segundo a imagem abaixo é composta da seguinte forma:
+A estrutura da arquitetura da solução atual e novo solução segundo a imagem abaixo é composta da seguinte forma:
 
 ![EstruturaDoProjeto](screenshots/estruturaClusterKafka.png)
 
