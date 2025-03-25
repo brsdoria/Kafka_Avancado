@@ -40,7 +40,7 @@ dotnet add package Confluent.Kafka
 
 ```
 
-## 🚧 Descrição da Estrutura da Arquitetura da solução atual e nova solução segundo
+## 🚧 Descrição da arquitetura da solução atual e nova solução
 
 A estrutura da arquitetura da solução atual e nova solução segundo a imagem abaixo é composta da seguinte forma:
 
