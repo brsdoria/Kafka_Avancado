@@ -1,7 +1,7 @@
 # Kafka Avançado
 
 <p align="justify"> 
-Criação de uma solution com dois projetos, com objetivo ensinar a aplicação prática de um produtor(responsável por produzir as mesagens para o Apache Kafka) e o consumidor(responsável por consumir as mensagens que chegam em um determinado tópico).
+Desenvolvimento de uma aplicação prática que implementa a arquitetura proposta utilizando o Apache Kafka em conjunto com o framework .NET Core. Uma integração do Kafka em suas aplicações .NET Core e como implementar produtores e consumidores de mensagens Kafka para comunicação assíncrona e distribuída.
 </p> 
 
 ## 🛠️ Construído com 
