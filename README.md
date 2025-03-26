@@ -12,10 +12,6 @@ Desenvolvimento de uma aplicação prática que implementa a arquitetura propost
 
 * [netcoreapp3.1]() - Versão de longo prazo (LTS) da plataforma de desenvolvimento .NET, lançada pela Microsoft em dezembro de 2019. Ele permite a criação de aplicações cross-platform (multiplataforma), ou seja, pode ser executado em sistemas operacionais como Windows, Linux e macOS.
 
-```
-
-```
-
 * [Confluent.Kafka]() -  Biblioteca cliente para interagir com o Apache Kafka, desenvolvida pela Confluent. Ela oferece uma maneira eficiente e robusta de conectar aplicações .NET ao Kafka, permitindo produzir e consumir mensagens de tópicos Kafka com alto desempenho e confiabilidade.
 
 ```
