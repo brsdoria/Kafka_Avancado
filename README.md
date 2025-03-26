@@ -25,7 +25,7 @@ dotnet add package Confluent.Kafka
 * [Swashbuckle.AspNetCore]() - Biblioteca que facilita a integração do Swagger em aplicações ASP.NET Core, permitindo gerar automaticamente a documentação de APIs RESTful. 
 
 ```
-
+dotnet add package Swashbuckle.AspNetCore
 ```
 
 ## 🚧 Descrição da arquitetura da solução atual e nova solução
